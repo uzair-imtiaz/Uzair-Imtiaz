@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-## Hi, I'm Uzair<br><br>I'm a software engineer with a passion for problem solving and continuous learning. I focus on writing clean, understandable code and building reliable software.<br>
+# About Me:
+## Hi, I'm Uzair<br><br>I'm a software engineer with a knack for problem solving and continuous learning. I focus on writing clean, understandable code and building reliable software.<br>
 
 
 ## 🌐 Socials:
